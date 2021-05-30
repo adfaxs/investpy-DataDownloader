@@ -13,12 +13,12 @@ if not os.path.exists(path):
     os.makedirs(path)
 
 f=open("stocklist.txt","r")
-num_lines = sum(1 for line in f)
+num_lines = sum(1 for line in f if line.rstrip())
 f.seek(0)
 bar = progressbar.ProgressBar(maxval=num_lines,widgets=[progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
 bar.start()
 i=0
-for ticker in f:
+for ticker in f :
      df = investpy.get_stock_historical_data(stock=ticker.strip(),country='india', from_date=startString, to_date=endString)
      df.to_csv(path +'\\%s.csv'%ticker.strip())
      i=i+1
