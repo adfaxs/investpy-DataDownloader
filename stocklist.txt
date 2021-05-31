@@ -1,2 +1,1711 @@
-India VIX
-Nifty 500
+Aditya Birla Capital Ltd, ADTB
+Hubtown Ltd, HUBT
+3i Infotech Ltd, TIIN
+3M India Ltd, TMIN
+ABB India Ltd, ABB
+ACC Ltd, ACC
+Aarti Industries Ltd, ARTI
+Aban Offshore Ltd, ABAN
+ABG Shipyard Ltd, ABGS
+Adani Enterprises Ltd, ADEL
+Adani Power Ltd, ADAN
+Agro Tech Foods Ltd, AGRO
+AIA Engineering Ltd, AIAE
+Akzo Nobel India Ltd, AKZO
+Allahabad Bank, ALBK
+Allcargo Logistics Ltd, ACLL
+Allied Digital Services Ltd, ADIS
+Alok Industries Ltd, ALOK
+GE Power India Ltd, GEPO
+Amara Raja Batteries Ltd, AMAR
+Ambuja Cements Ltd, ABUJ
+Amtek Auto Ltd, AMTK
+Castex Technologies Ltd, CASE
+Anant Raj Ltd, ANRA
+Andhra Bank, ADBK
+Ansal Properties and Infrastructure Ltd, ANSP
+Apollo Hospitals Enterprises Ltd, APLH
+Apollo Tyres Ltd, APLO
+Aptech Ltd, APTA
+ARSS Infrastructure Projects Ltd, ARSS
+Arvind Ltd, ARVN
+Asahi India Glass Ltd, AISG
+Ashok Leyland Ltd, ASOK
+Asian Paints Ltd, ASPN
+AstraZeneca Pharma India Ltd, ASTR
+Atul Ltd, ATLP
+Aurobindo Pharma Ltd, ARBN
+Automotive Axles Ltd, ATOA
+Sanofi India Ltd, SANO
+AXIS Bank Ltd, AXBK
+BGR Energy Systems Ltd, BGRE
+Linde India Ltd, LIND
+Bajaj Auto Ltd, BAJA
+Bajaj Electricals Ltd, BJEL
+Bajaj Finance Ltd, BJFN
+Bajaj Finserv Ltd, BJFS
+Bajaj Holdings and Investment Ltd, BJAT
+Bajaj Hindustan Ltd, BJHN
+Balaji Telefilms Ltd, BLTE
+Ballarpur Industries Ltd, BILT
+Balmer Lawrie & Co Ltd, BLMR
+Balrampur Chini Mills Ltd, BACH
+Banco Products India Ltd, BNCO
+Bank of India Ltd, BOI
+Bannari Amman Sugars Ltd, BANN
+BASF India Ltd, BASF
+Bata India Ltd, BATA
+BEML Ltd, BEML
+Berger Paints India Ltd, BRGR
+BF Utilities Ltd, BFUT
+Bhansali Engineering Polymers Ltd, BHAN
+Bharat Forge Ltd, BFRG
+Bharat Petroleum Corp Ltd, BPCL
+Bharti Airtel Ltd, BRTI
+Bharat Heavy Electricals Ltd, BHEL
+Bharat Electronics Ltd, BAJE
+Tata Steel BSL Ltd, TATS
+Biocon Ltd, BION
+Birla Corporation Ltd, BRLC
+Bank of Baroda Ltd, BOB
+Blue Dart Express Ltd, BLDT
+Blue Star Ltd, BLUS
+Bombay Dyeing & Mfg Co Ltd, BDYN
+Bombay Rayon Fashions Ltd, BRFL
+Bosch Ltd, BOSH
+Brigade Enterprises Ltd, BRIG
+Britannia Industries Ltd, BRIT
+Cadila Healthcare Ltd, CADI
+Canara Bank Ltd, CNBK
+Can Fin Homes Ltd, CNFH
+Carborundum Universal Ltd, CRBR
+Castrol India Ltd, CAST
+Central Bank of India Ltd, CBI
+Century Enka Ltd, CNTE
+Century Plyboards Ltd, CNTP
+Century Textiles & Industries Ltd, CNTY
+CESC Ltd, CESC
+Chambal Fertilisers & Chemicals Ltd, CHMB
+Chennai Petroleum Corporation Ltd, CHPC
+Cholamandalam Investment and Finance Company Ltd, CHLA
+Cipla Ltd, CIPL
+City Union Bank Ltd, CTBK
+Clariant Chemicals India Ltd, CLAC
+CMC Ltd, CMC
+Coal India Ltd, COAL
+Colgate-Palmolive (India) Ltd, COLG
+Container Corporation of India Ltd, CCRI
+Corporation Bank Ltd, CRBK
+Coromandel International Ltd, CORF
+Cox & Kings Ltd, COKI
+CRISIL Ltd, CRSL
+CG Power and Industrial Solutions Ltd, CGPO
+Cummins India Ltd, CUMM
+D B Realty Ltd, DBRL
+Dabur India Ltd, DABU
+DCM Shriram Consolidated, DCMS
+DCW Ltd, DCWL
+Deepak Fertilisers and Petrochemicals Corp Ltd, DPFE
+Delta Corp Ltd, DELT
+Dena Bank, DENA
+Development Credit Bank Ltd, DCBA
+Dewan Housing Finance Corp Ltd, DWNH
+Dhampur Sugar Mills Ltd, DAMS
+Dhanlaxmi Bank Ltd, DNBK
+Dish TV India Ltd, DSTV
+Divis Laboratories Ltd, DIVI
+DLF Ltd, DLF
+Dr Reddy’s Laboratories Ltd, REDY
+Dredging Corporation of India Ltd, DRDG
+Dynamatic Technologies Ltd, DYNM
+EIH Ltd, EIHO
+eClerx Services Ltd, ECLE
+Edelweiss Financial Services Ltd, EDEL
+Educomp Solutions Ltd, EDSO
+Eicher Motors Ltd, EICH
+EID-Parry Ltd, EIDP
+Electrosteel Castings Ltd, ELST
+ELGI Equipments Ltd, ELGE
+Emami Ltd, EMAM
+Engineers India Ltd, ENGI
+Entertainment Network India Ltd, ENIL
+ESAB India Ltd, ESAB
+Escorts Ltd, ESCO
+Essel Propack ltd, ESSL
+Everest Kanto Cylinder Ltd, EKCL
+Exide Industries Ltd, EXID
+FDC Ltd, FDC
+Schaeffler India Ltd, SCHE
+Federal Bank Ltd, FED
+Federal Mogul Goetze Ltd, FEDM
+63 Moons Technologies Ltd, 63MO
+Finolex Cables Ltd, FNXC
+Finolex Industries Ltd, FINX
+Firstsource Solutions Ltd, FISO
+Fortis Healthcare Ltd, FOHE
+Capital First Ltd, CAPF
+Future Consumer Ltd, FTRE
+GHCL Ltd, GHCH
+GAIL Ltd, GAIL
+Gammon India Ltd, GAMM
+Gammon Infrastructure Projects Ltd, GAIN
+Garden Silk Mills Ltd, GARD
+Gateway Distriparks Ltd, GATE
+Geojit BNP Paribas Financial Services Ltd, GEOJ
+Geometric Ltd, GEOM
+Great Eastern Shipping Co Ltd, GESC
+Gillette India Ltd, GILE
+Gitanjali Gems Ltd, GTGM
+GlaxoSmithkline Pharmaceuticals Ltd, GLAX
+GlaxoSmithKline Consumer Healthcare Ltd, GLSM
+Glenmark Pharmaceuticals Ltd, GLEN
+GMR Infrastructure Ltd, GMRI
+Godfrey Phillips India Ltd, GDFR
+Godrej Consumer Products Ltd, GOCP
+Godrej Industries Ltd, GODI
+Godrej Properties Ltd, GODR
+Graphite India Ltd, GRPH
+Grasim Industries Ltd, GRAS
+Greaves Cotton Ltd, GRVL
+GTL Infrastructure Ltd, GTLI
+GTL Ltd, GTL
+Gujarat Alkalis & Chemicals Ltd, GALK
+Gujarat Fluorochemicals Ltd, GUJL
+Gujarat Industries Power Company Ltd, GJIP
+Gujarat Mineral Development Corporation Ltd, GMDC
+Gujarat Narmada Valley FertCoLtd, GNFC
+Gujarat NRE Coke Ltd, GJNC
+Gujarat Ambuja Exports Ltd, GAME
+Gujarat State Fertilizers and Chemicals Ltd, GSFC
+Gujarat Pipavav Port Ltd, GPPL
+Gujarat State Petronet Ltd, GSPT
+Gujarat Gas Ltd, GGAS
+GVK Power & Infrastructure Ltd, GVKP
+Hathway Cable & Datacom Ltd, HAWY
+Havells India Ltd, HVEL
+HCL Infosystems Ltd, HCLI
+HCL Technologies Ltd, HCLT
+HDFC Bank Ltd, HDBK
+HEG Ltd, HEGL
+Hero MotoCorp Ltd, HROM
+Hexaware Technologies Ltd, HEXT
+Himatsingka Seide Ltd, HMSD
+HFCL Ltd, HFCL
+Hindustan Construction Co Ltd, HCNS
+Hindustan Petroleum Corporation Ltd, HPCL
+Hindustan Unilever Ltd, HLL
+Hindustan Zinc Ltd, HZNC
+Hindalco Industries Ltd, HALC
+Hindustan Oil Exploration Company Ltd, HOEX
+Honeywell Automation India Ltd, HONE
+Hotel Leela Venture Ltd, HTLE
+Housing Development Finance Corporation Ltd, HDFC
+Housing Development and Infrastructure Ltd, HDIL
+HSIL Ltd, HSNT
+HT Media Ltd, HTML
+IFCI Ltd, IFCI
+Indian Oil Corporation Ltd, IOC
+ICICI Bank Ltd, ICBK
+IDBI Bank Ltd, IDBI
+Vodafone Idea Ltd, VODA
+IL&FS Engineering and Construction Co Ltd, ILFE
+IND Swift Laboratories Ltd, ISLB
+Indiabulls Ventures Ltd, INDB
+India Cements Ltd, ICMN
+India Glycols Ltd, IGLY
+IIFL Fiinance Ltd Class B, IIFL
+RattanIndia Power Ltd, RTNP
+Indian Bank, INBA
+Indian Hotels Co Ltd, IHTL
+Indian Overseas Bank, IOBK
+Indo Rama Synthetics (India) Ltd, IRSY
+Indraprastha Gas Ltd, IGAS
+Indraprastha Medical Corporation Ltd, IMCL
+IndusInd Bank Ltd, INBK
+Info Edge India Ltd, INED
+Infosys Ltd, INFY
+Cyient Ltd-B, CYIE
+IDFC Ltd, IDFC
+Ingersoll-Rand Ltd, INGR
+Inox Leisure Ltd, INOL
+Ipca Laboratories Ltd, IPCA
+IRB Infrastructure Developers Ltd, IRBI
+ITC Ltd, ITC
+IVRCL LTD, IVRC
+JSW Steel Ltd, JSTL
+Jagran Prakashan Ltd, JAGP
+Jai Balaji Industries Ltd, JAIB
+Jai Corp Ltd, JAIC
+Jain Irrigation Systems Ltd, JAIR
+Jaiprakash Associates Ltd, JAIA
+Jaiprakash Power Ventures Ltd, JAPR
+Jammu and Kashmir Bank Ltd, JKBK
+Jaypee Infratech Ltd, JYPE
+Jay Shree Tea & Industries Ltd, JYST
+J B Chemicals and Pharmaceuticals Ltd, JBCH
+Jet Airways Ltd, JET
+Jindal Poly Films Ltd, JPLY
+Jindal South West Holdings Ltd, JNSW
+Jindal Stainless Ltd, JIST
+Jindal Steel & Power Ltd, JNSP
+JK Tyre & Industries Ltd, JKIN
+JM Financial Ltd, JMSH
+JSW Energy Ltd, JSWE
+JSW Ispat Steel Ltd, JSWI
+Jubilant Life Sciences Ltd, JULS
+Jubilant Foodworks Ltd, JUBI
+Jyoti Structures Ltd, JYTS
+KCP Ltd, KCP
+Kajaria Ceramics Ltd, KAJR
+Kalpataru Power Transmission Ltd, KAPT
+Kansai Nerolac Paints Ltd, KANE
+Karnataka Bank Ltd, KBNK
+Karuturi Global Ltd, KART
+Karur Vysya Bank Ltd, KARU
+KEC International Ltd, KECL
+Kesoram Industries Ltd, KSRM
+Kotak Mahindra Bank Ltd, KTKM
+Birlasoft Ltd, BIRS
+KSB Ltd, KSBL
+KSK Energy Ventures Ltd, KSKE
+Lakshmi Vilas Bank Ltd, LVLS
+Lakshmi Energy And Foods Ltd, LAKO
+Lakshmi Machine Works Ltd, LKMC
+Lanco Infratech Ltd, LAIN
+Larsen & Toubro Ltd, LART
+Lic Housing Finance Ltd, LICH
+Lupin Ltd, LUPN
+Mahindra and Mahindra Financial Services Ltd, MMFS
+The Ramco Cements Ltd, TRCE
+Mahindra & Mahindra Ltd, MAHM
+Mahindra Lifespace Developers Ltd, MALD
+Maharashtra Seamless Ltd, MHSM
+Marico Ltd, MRCO
+Maruti Suzuki India Ltd, MRTI
+Mastek Ltd, MAST
+Max Financial Services Ltd, MAXI
+McLeod Russel India Ltd, MCLE
+Mercator Ltd, MRCT
+Procter & Gamble Health Ltd, PROR
+MindTree Ltd, MINT
+MIRC Electronics Ltd, MIRC
+Monnet Ispat and Energy Ltd, MNET
+Monsanto India Ltd, MNSN
+Moser Baer India Ltd, MOSR
+Motherson Sumi Systems Ltd, MOSS
+Motilal Oswal Financial Services Ltd, MOFS
+Mphasis Ltd, MBFL
+MRF Ltd, MRF
+Mangalore Refinery and Petrochemicals Ltd, MRPL
+Mahanagar Telephone Nigam Ltd, MTNL
+Adani Port and Special Economic Zone Ltd, APSE
+MVL Ltd, MVLL
+NIIT Ltd, NIIT
+NTPC Ltd, NTPC
+National Fertilizers Ltd, NAFT
+National Aluminum Co Ltd, NALU
+Nava Bharat Ventures Ltd, NABV
+Navneet Education Ltd, NAVN
+NCC Ltd, NCCL
+Nelco Ltd, NELC
+Network 18 Media & Investments Ltd, NEFI
+New Delhi Television Ltd, NDTV
+NLC India Ltd, NLCI
+NHPC Ltd, NHPC
+Nilkamal Ltd, NKML
+NMDC Ltd, NMDC
+Noida Toll Bridge Company Ltd, NOID
+Oil And Natural Gas Corporation Ltd, ONGC
+Oberoi Realty Ltd, OEBO
+Oil India Ltd, OILI
+Omaxe Ltd, OMAX
+Opto Circuits Ltd, OPTO
+Oracle Financial Services Software Ltd, ORCL
+Orchid Pharma Ltd, ORCD
+Oriental Hotels Ltd, ORHT
+Orient Paper and Industries Ltd, ORPP
+Oriental Bank Of Commerce Ltd, ORBC
+Orissa Minerals Development Company Ltd, ORIS
+Oswal Greentech Ltd, OSGL
+PSL Ltd, PSLH
+Page Industries Ltd, PAGE
+Panacea Biotec Ltd, PNCA
+Future Enterprises Ltd A, FURE
+Huhtamaki PPL Ltd, HUHT
+Parsvnath Developers Ltd, PARV
+Patel Engineering Ltd, PENG
+Peninsula Land Ltd, PENL
+Persistent Systems Ltd, PERS
+Petronet LNG Ltd, PLNG
+Pfizer Ltd, PFIZ
+The Phoenix Mills Ltd, PHOE
+Pidilite Industries Ltd, PIDI
+Reliance Naval and Engineering Ltd, RELV
+Piramal Enterprises Ltd, PIRA
+Power Finance Corporation Ltd, PWFC
+Power Grid Corporation of India Ltd, PGRD
+Praj Industries Ltd, PRAJ
+Prestige Estates Projects Ltd, PREG
+Prism Johnson Ltd, PRIS
+Procter & Gamble Hygiene and Health Care Ltd, PROC
+Provogue India Ltd, PROV
+PTC India Ltd, PTCI
+Punj LLoyd Ltd, PUJL
+Punjab National Bank, PNBK
+Puravankara Projects Ltd, PURA
+Radico Khaitan Ltd, RADC
+Rajesh Exports Ltd, REXP
+Rallis India Ltd, RALL
+Ramco Industries Ltd, RAMC
+Rashtriya Chemicals and Fertilizers Ltd, RSTC
+Raymond Ltd, RYMD
+Redington India Ltd, REDI
+Reliance Capital Ltd, RLCP
+Reliance Communications Ltd, RLCM
+Reliance Industrial Infrastructure Ltd, REII
+Reliance Infrastructure Ltd, RLIN
+Reliance Power Ltd, RPOL
+Reliance Industries Ltd, RELI
+Religare Enterprises Ltd, RELG
+Rolta India Ltd, ROLT
+Ruchi Soya Industries Ltd, RCSY
+REC Ltd, RECM
+State Bank of Bikaner and Jaipur, SBKB
+State Bank of Travancore, SBKT
+S Kumars Nationwide Ltd, SKMK
+Sadbhav Engineering Ltd, SADE
+State Bank Of India, SBI
+Vedanta Ltd, VDAN
+Shanthi Gears Ltd, SHNT
+Shipping Corporation Of India Ltd, SCI
+Shoppers Stop Ltd, SHOP
+Shree Cements Ltd, SHCM
+Shree Renuka Sugars Ltd, SRES
+Shriram Transport Finance Co Ltd, SRTR
+Siemens Ltd, SIEM
+Simplex Infrastructures Ltd, SINF
+Sintex Industries Ltd, SNTX
+SKF India Ltd, SKFB
+Bharat Financial Inclusion Ltd, BHAF
+Sobha Developers Ltd, SOBH
+JTEKT India Ltd, JTEK
+Sonata Software Ltd, SOFT
+South Indian Bank Ltd, SIBK
+SREI Infrastructure Finance Ltd, SREI
+SRF Ltd, SRFL
+State Trading Corporation of India Ltd, STCI
+Steel Authority of India Ltd, SAIL
+Sterling Biotech Ltd, STBI
+Sterlite Technologies Ltd, STTE
+Strides Pharma Science Ltd, SRID
+Neueon Towers Ltd, NEUE
+Sun Pharmaceutical Industries Ltd, SUN
+Sun TV Network Ltd, SUTV
+Sundaram Finance Ltd, SNFN
+Sundram Fasteners Ltd, SNFS
+Sunteck Realty Ltd, SUNT
+Supreme Industries Ltd, SUPI
+Supreme Petrochem Ltd, SPTL
+Surya Roshni Ltd, SURR
+Suzlon Energy Ltd, SUZL
+Swaraj Engines Ltd, SWAR
+Syndicate Bank Ltd, SBNK
+TAJ GVK Hotels and Resorts Ltd, TAJG
+Tata Chemicals Ltd, TTCH
+Tata Coffee Ltd, TACO
+Tata Communications Limited, TATA
+Tata Consultancy Services Ltd, TCS
+Tata Elxsi Ltd, TTEX
+Tata Global Beverages Ltd, TAGL
+Tata Investment Corporation Ltd, TINV
+Tata Metaliks Ltd, TMET
+Tata Motors Ltd, TAMO
+Tata Power Co Ltd, TTPW
+Tata Sponge Iron Ltd, TTST
+Tata Steel Ltd, TISC
+Tech Mahindra Ltd, TEML
+Thermax Ltd, THMX
+Thomas Cook India Ltd, THOM
+Tinplate Company of India Ltd, TINP
+Titan Company Ltd, TITN
+Tamil Nadu Newsprint And Papers Ltd, TNNP
+Torrent Pharmaceuticals Ltd, TORP
+Torrent Power Ltd, TOPO
+Trent Ltd, TREN
+Cholamandalam Financial Holdings Ltd, CHOL
+TVToday Network Ltd, TVTO
+TV18 Broadcast Ltd, TVEB
+TVS Motor Company Ltd, TVSM
+UCO Bank, UCBK
+Uflex Ltd, UFLX
+UltraTech Cement Ltd, ULTC
+Unichem Laboratories Ltd, UNLB
+Union Bank of India Ltd, UNBK
+Unitech Ltd, UNTE
+United Breweries Ltd, UBBW
+UPL Ltd, UPLL
+United Spirits Ltd, UNSP
+Unity Infraprojects Ltd, UTIL
+Usha Martin Ltd, USBL
+Uttam Galva Steels Ltd, UTTM
+Varun Shipping Company Ltd, VRNS
+Venkys India Ltd, VENK
+Vesuvius India Ltd, VESU
+Videocon Industries Ltd, VEDI
+Vijaya Bank, VJBK
+V I P Industries Ltd, VIPI
+Voltas Ltd, VOLT
+VST Industries Ltd, VSTI
+Welspun Corp Ltd, WGSR
+West Coast Paper Mills Ltd, WSTC
+Whirlpool of India Ltd, WHIR
+Wipro Ltd, WIPR
+Wockhardt Ltd, WCKH
+Yes Bank Ltd, YESB
+Zee Entertainment Enterprises Ltd, ZEE
+Zensar Technologies Ltd, ZENT
+Zodiac Clothing Company Ltd, ZCCL
+Zuari Global Ltd, ZURI
+Zydus Wellness Ltd, ZYDS
+Den Networks Ltd, DENN
+DBCorp Ltd, DBCL
+Prime Focus Ltd, PRFO
+Nestle India Ltd, NEST
+Schneider Electric Infrastructure Ltd, SEIN
+HeidelbergCement India Ltd, HEID
+Standard Chartered PLC DRC, STNCy
+3M India Ltd, TMIN
+ABB India Ltd, ABB
+ACC Ltd, ACC
+Aban Offshore Ltd, ABAN
+ABG Shipyard Ltd, ABGS
+Adani Enterprises Ltd, ADEL
+Adani Power Ltd, ADAN
+Agro Tech Foods Ltd, AGRO
+AIA Engineering Ltd, AIAE
+Akzo Nobel India Ltd, AKZO
+Allahabad Bank, ALBK
+Allcargo Logistics Ltd, ACLL
+Alok Industries Ltd, ALOK
+ALSTOM India Ltd, GEPO
+Amara Raja Batteries Ltd, AMAR
+Ambuja Cements Ltd, ABUJ
+Amtek Auto Ltd, AMTK
+Castex Technologies Ltd, CASE
+Anant Raj Ltd, ANRA
+Andhra Bank, ADBK
+Apollo Hospitals Enterprises Ltd, APLH
+Apollo Tyres Ltd, APLO
+Aptech Ltd, APTA
+Arvind Ltd, ARVN
+Asahi India Glass Ltd, AISG
+Ashok Leyland Ltd, ASOK
+Asian Paints Ltd, ASPN
+AstraZeneca Pharma India Ltd, ASTR
+Aurobindo Pharma Ltd, ARBN
+Sanofi India Ltd, SANO
+AXIS Bank Ltd, AXBK
+BGR Energy Systems Ltd, BGRE
+Linde India Ltd, LIND
+Bajaj Auto Ltd, BAJA
+Bajaj Electricals Ltd, BJEL
+Bajaj Finance Ltd, BJFN
+Bajaj Finserv Ltd, BJFS
+Bajaj Holdings & Investment Ltd, BJAT
+Bajaj Hindustan Ltd, BJHN
+Ballarpur Industries Ltd, BILT
+Balmer Lawrie & Co Ltd, BLMR
+Balrampur Chini Mills Ltd, BACH
+Bank of India Ltd, BOI
+BASF India Ltd, BASF
+Bata India Ltd, BATA
+BEML Ltd, BEML
+Berger Paints India Ltd, BRGR
+BF Utilities Ltd, BFUT
+Bharat Forge Ltd, BFRG
+Bharat Petroleum Corp Ltd, BPCL
+Bharti Airtel Ltd, BRTI
+Bharat Heavy Electricals Ltd, BHEL
+Bharat Electronics Ltd, BAJE
+Tata Steel BSL Ltd, TATS
+Biocon Ltd, BION
+Birla Corporation Ltd, BRLC
+Bank of Baroda Ltd, BOB
+Blue Dart Express Ltd, BLDT
+Blue Star Ltd, BLUS
+Bombay Dyeing & Mfg Co Ltd, BDYN
+Bombay Rayon Fashions Ltd, BRFL
+Bosch Ltd, BOSH
+Britannia Industries Ltd, BRIT
+Cadila Healthcare Ltd, CADI
+Canara Bank Ltd, CNBK
+Carborundum Universal Ltd, CRBR
+Castrol India Ltd, CAST
+Central Bank of India Ltd, CBI
+Century Textiles & Industries Ltd, CNTY
+CESC Ltd, CESC
+Chambal Fertilisers & Chemicals Ltd, CHMB
+Chennai Petroleum Corporation Ltd, CHPC
+Cholamandalam Investment and Finance Company Ltd, CHLA
+Cipla Ltd, CIPL
+City Union Bank Ltd, CTBK
+Clariant Chemicals India Ltd, CLAC
+Coal India Ltd, COAL
+Colgate-Palmolive (India) Ltd, COLG
+Container Corporation of India Ltd, CCRI
+Corporation Bank Ltd, CRBK
+Coromandel International Ltd, CORF
+Cox & Kings Ltd, COKI
+CRISIL Ltd, CRSL
+Crompton Greaves Ltd, CGPO
+Cummins India Ltd, CUMM
+D B Realty Ltd, DBRL
+Dabur India Ltd, DABU
+Deepak Fertilisers and Petrochemicals Corp Ltd, DPFE
+Delta Corp Ltd, DELT
+Development Credit Bank Ltd, DCBA
+Dewan Housing Finance Corp Ltd, DWNH
+Dhanlaxmi Bank Ltd, DNBK
+Dish TV India Ltd, DSTV
+Divis Laboratories Ltd, DIVI
+DLF Ltd, DLF
+Dr Reddy’s Laboratories Ltd, REDY
+EIH Ltd, EIHO
+eClerx Services Ltd, ECLE
+Edelweiss Financial Services Ltd, EDEL
+Educomp Solutions Ltd, EDSO
+Eicher Motors Ltd, EICH
+EID Parry (India) Ltd, EIDP
+ELGI Equipments Ltd, ELGE
+Emami Ltd, EMAM
+Engineers India Ltd, ENGI
+Entertainment Network (India) Ltd, ENIL
+Escorts Ltd, ESCO
+Exide Industries Ltd, EXID
+FDC Ltd, FDC
+Schaeffler India Ltd, SCHE
+Federal Bank Ltd, FED
+63 Moons Technologies Ltd, 63MO
+Finolex Industries Ltd, FINX
+Fortis Healthcare Ltd, FOHE
+Future Consumer Ltd, FTRE
+Gail (India) Ltd, GAIL
+Gammon India Ltd, GAMM
+Gateway Distriparks Ltd, GATE
+Great Eastern Shipping Co Ltd, GESC
+Gillette India Ltd, GILE
+Gitanjali Gems Ltd, GTGM
+GlaxoSmithkline Pharmaceuticals Ltd, GLAX
+GlaxoSmithKline Consumer Healthcare Ltd, GLSM
+Glenmark Pharmaceuticals Ltd, GLEN
+GMR Infrastructure Ltd, GMRI
+Godfrey Phillips India Ltd, GDFR
+Godrej Consumer Products Ltd, GOCP
+Godrej Industries Ltd, GODI
+Godrej Properties Ltd, GODR
+Graphite India Ltd, GRPH
+Grasim Industries Ltd, GRAS
+Greaves Cotton Ltd, GRVL
+GTL Infrastructure Ltd, GTLI
+GTL Ltd, GTL
+Gujarat Alkalis & Chemicals Ltd, GALK
+Gujarat Fluorochemicals Ltd, GUJL
+Gujarat Mineral Development Corporation Ltd, GMDC
+Gujarat Narmada Valley FertCoLtd, GNFC
+Gujarat NRE Coke Ltd, GJNC
+Gujarat State Fertilizers and Chemicals Ltd, GSFC
+Gujarat Pipavav Port Ltd, GPPL
+Gujarat State Petronet Ltd, GSPT
+Gujarat Gas Ltd, GGAS
+GVK Power & Infrastructure Ltd, GVKP
+Hathway Cable & Datacom Ltd, HAWY
+Havells India Ltd, HVEL
+HCL Infosystems Ltd, HCLI
+HCL Technologies Ltd, HCLT
+HDFC Bank Ltd, HDBK
+HEG Ltd, HEGL
+Hero MotoCorp Ltd, HROM
+Hexaware Technologies Ltd, HEXT
+HFCL Ltd, HFCL
+Hindustan Construction Co Ltd, HCNS
+Hindustan Petroleum Corporation Ltd, HPCL
+Hindustan Unilever Ltd, HLL
+Hindustan Zinc Ltd, HZNC
+Hindalco Industries Ltd, HALC
+Hindustan Oil Exploration Company Ltd, HOEX
+Honeywell Automation India Ltd, HONE
+Hotel Leela Venture Ltd, HTLE
+Housing Development Finance Corporation Ltd, HDFC
+Housing Development and Infrastructure Ltd, HDIL
+HSIL Ltd, HSNT
+HT Media Ltd, HTML
+IFCI Ltd, IFCI
+Indian Oil Corporation Ltd, IOC
+ICICI Bank Ltd, ICBK
+IDBI Bank Ltd, IDBI
+Vodafone Idea Ltd, VODA
+India Cements Ltd, ICMN
+IIFL Fiinance Ltd Class B, IIFL
+Indian Bank, INBA
+Indian Hotels Co Ltd, IHTL
+Indian Overseas Bank, IOBK
+Indraprastha Gas Ltd, IGAS
+IndusInd Bank Ltd, INBK
+Info Edge (India) Ltd, INED
+Infosys Ltd, INFY
+Cyient Ltd-B, CYIE
+IDFC Ltd, IDFC
+Ingersoll-Rand (India) Ltd, INGR
+Ipca Laboratories Ltd, IPCA
+IRB Infrastructure Developers Ltd, IRBI
+ITC Ltd, ITC
+IVRCL LTD, IVRC
+JSW Steel Ltd, JSTL
+Jagran Prakashan Ltd, JAGP
+Jai Corp Ltd, JAIC
+Jain Irrigation Systems Ltd, JAIR
+Jaiprakash Associates Ltd, JAIA
+Jaiprakash Power Ventures Ltd, JAPR
+Jammu and Kashmir Bank Ltd, JKBK
+Jaypee Infratech Ltd, JYPE
+J B Chemicals and Pharmaceuticals Ltd, JBCH
+Jet Airways (India) Ltd, JET
+Jindal Poly Films Ltd, JPLY
+Jindal South West Holdings Ltd, JNSW
+Jindal Stainless Ltd, JIST
+Jindal Steel & Power Ltd, JNSP
+JM Financial Ltd, JMSH
+JSW Energy Ltd, JSWE
+Jubilant Life Sciences Ltd, JULS
+Jubilant Foodworks Ltd, JUBI
+Jyoti Structures Ltd, JYTS
+Kajaria Ceramics Ltd, KAJR
+Kalpataru Power Transmission Ltd, KAPT
+Kansai Nerolac Paints Ltd, KANE
+Karnataka Bank Ltd, KBNK
+KEC International Ltd, KECL
+Kesoram Industries Ltd, KSRM
+Kotak Mahindra Bank Ltd, KTKM
+Birlasoft Ltd, BIRS
+KSK Energy Ventures Ltd, KSKE
+Lakshmi Machine Works Ltd, LKMC
+Lanco Infratech Ltd, LAIN
+Larsen & Toubro Ltd, LART
+Lic Housing Finance Ltd, LICH
+Lupin Ltd, LUPN
+Mahindra and Mahindra Financial Services Ltd, MMFS
+The Ramco Cements Ltd, TRCE
+Mahindra & Mahindra Ltd, MAHM
+Mahindra Lifespace Developers Ltd, MALD
+Maharashtra Seamless Ltd, MHSM
+Marico Ltd, MRCO
+Maruti Suzuki India Ltd, MRTI
+Max Financial Services Ltd, MAXI
+McLeod Russel India Ltd, MCLE
+Mercator Ltd, MRCT
+MindTree Ltd, MINT
+Monnet Ispat and Energy Ltd, MNET
+Monsanto India Ltd, MNSN
+Motherson Sumi Systems Ltd, MOSS
+Motilal Oswal Financial Services Ltd, MOFS
+Mphasis Ltd, MBFL
+MRF Ltd, MRF
+Mangalore Refinery and Petrochemicals Ltd, MRPL
+Mahanagar Telephone Nigam Ltd, MTNL
+Adani Port and Special Economic Zone Ltd, APSE
+NIIT Ltd, NIIT
+NTPC Ltd, NTPC
+National Fertilizers Ltd, NAFT
+National Aluminum Co Ltd, NALU
+Nava Bharat Ventures Ltd, NABV
+Navneet Education Ltd, NAVN
+NCC Ltd, NCCL
+Network 18 Media & Investments Ltd, NEFI
+NLC India Ltd, NLCI
+NHPC Ltd, NHPC
+NMDC Ltd, NMDC
+Noida Toll Bridge Company Ltd, NOID
+Oil And Natural Gas Corporation Ltd, ONGC
+Oberoi Realty Ltd, OEBO
+Oil India Ltd, OILI
+Omaxe Ltd, OMAX
+Opto Circuits (India) Ltd, OPTO
+Oracle Financial Services Software Ltd, ORCL
+Orchid Pharma Ltd, ORCD
+Oriental Bank Of Commerce Ltd, ORBC
+Page Industries Ltd, PAGE
+Future Enterprises Ltd A, FURE
+Parsvnath Developers Ltd, PARV
+Patel Engineering Ltd, PENG
+Peninsula Land Ltd, PENL
+Persistent Systems Ltd, PERS
+Lanco Infratech Ltd, PLNG
+Pfizer Ltd, PFIZ
+The Phoenix Mills Ltd, PHOE
+Pidilite Industries Ltd, PIDI
+Reliance Naval and Engineering Ltd, RELV
+Piramal Enterprises Ltd, PIRA
+Power Finance Corporation Ltd, PWFC
+Power Grid Corporation of India Ltd, PGRD
+Praj Industries Ltd, PRAJ
+Prestige Estates Projects Ltd, PREG
+Prism Cement Ltd, PRIS
+Procter & Gamble Hygiene and Health Care Ltd, PROC
+PTC India Ltd, PTCI
+Punj LLoyd Ltd, PUJL
+Punjab National Bank, PNBK
+Puravankara Projects Ltd, PURA
+Radico Khaitan Ltd, RADC
+Rajesh Exports Ltd, REXP
+Rallis India Ltd, RALL
+Rashtriya Chemicals and Fertilizers Ltd, RSTC
+Raymond Ltd, RYMD
+Redington (India) ltd, REDI
+Reliance Capital Ltd, RLCP
+Reliance Communications Ltd, RLCM
+Reliance Industrial Infrastructure Ltd, REII
+Reliance Infrastructure Ltd, RLIN
+Reliance Power Ltd, RPOL
+Reliance Industries Ltd, RELI
+Religare Enterprises Ltd, RELG
+Rolta India Ltd, ROLT
+Ruchi Soya Industries Ltd, RCSY
+REC Ltd, RECM
+S Kumars Nationwide Ltd, SKMK
+Sadbhav Engineering Ltd, SADE
+State Bank Of India, SBI
+Vedanta Ltd, VDAN
+Shipping Corporation Of India Ltd, SCI
+Shoppers Stop Ltd, SHOP
+Shree Cements Ltd, SHCM
+Shree Renuka Sugars Ltd, SRES
+Shriram Transport Finance Co Ltd, SRTR
+Siemens Ltd, SIEM
+Simplex Infrastructures Ltd, SINF
+Sintex Industries Ltd, SNTX
+SKF India Ltd, SKFB
+Bharat Financial Inclusion Ltd, BHAF
+Sobha Developers Ltd, SOBH
+South Indian Bank Ltd, SIBK
+SREI Infrastructure Finance Ltd, SREI
+SRF Ltd, SRFL
+State Trading Corporation of India Ltd, STCI
+Steel Authority of India Ltd, SAIL
+Sterlite Technologies Ltd, STTE
+Strides Pharma Science Ltd, SRID
+Sun Pharmaceutical Industries Ltd, SUN
+Sun TV Network Ltd, SUTV
+Sundram Fasteners Ltd, SNFS
+Sunteck Realty Ltd, SUNT
+Supreme Industries Ltd, SUPI
+Suzlon Energy Ltd, SUZL
+Syndicate Bank Ltd, SBNK
+Tata Chemicals Ltd, TTCH
+Tata Coffee Ltd, TACO
+Tata Communications Limited, TATA
+Tata Consultancy Services Ltd, TCS
+Tata Elxsi Ltd, TTEX
+Tata Global Beverages Ltd, TAGL
+Tata Investment Corporation Ltd, TINV
+Tata Motors Ltd, TAMO
+Tata Power Co Ltd, TTPW
+Tata Steel Ltd, TISC
+Tech Mahindra Ltd, TEML
+Thermax Ltd, THMX
+Thomas Cook India Ltd, THOM
+Titan Company Ltd, TITN
+Tamil Nadu Newsprint And Papers Ltd, TNNP
+Torrent Pharmaceuticals Ltd, TORP
+Torrent Power Ltd, TOPO
+Trent Ltd, TREN
+Cholamandalam Financial Holdings Ltd, CHOL
+TV18 Broadcast Ltd, TVEB
+TVS Motor Company Ltd, TVSM
+UCO Bank, UCBK
+Uflex Ltd, UFLX
+UltraTech Cement Ltd, ULTC
+Unichem Laboratories Ltd, UNLB
+Union Bank of India Ltd, UNBK
+Unitech Ltd, UNTE
+United Breweries Ltd, UBBW
+UPL Ltd, UPLL
+United Spirits Ltd, UNSP
+Usha Martin Ltd, USBL
+Uttam Galva Steels Ltd, UTTM
+Videocon Industries Ltd, VEDI
+VIP Industries Ltd, VIPI
+Voltas Ltd, VOLT
+VST Industries Ltd, VSTI
+Welspun Corp Ltd, WGSR
+Whirlpool of India Ltd, WHIR
+Wipro Ltd, WIPR
+Wockhardt Ltd, WCKH
+Yes Bank Ltd, YESB
+Zee Entertainment Enterprises Ltd, ZEE
+Zydus Wellness Ltd, ZYDS
+Den Networks Ltd, DENN
+DBCorp Ltd, DBCL
+Prime Focus Ltd, PRFO
+Nestle India Ltd, NEST
+Schneider Electric Infrastructure Ltd, SEIN
+Standard Chartered PLC DRC, STNCy
+Abbott India Ltd, ABOT
+International Paper APPM Ltd, IPAP
+Ge T&D India Ltd, GETD
+Arshiya Ltd, ARSH
+A2z Infra Engineering Ltd BO, A2ZI
+Bajaj Corp Ltd, BACO
+Bayer Cropscience Ltd, BAYE
+Bharti Infratel Ltd, BHRI
+Balkrishna Industries Ltd, BLKI
+Bank of Maharashtra Ltd, BMBK
+Credit Analysis And Research Ltd, CREI
+Elecon Engineering CoLtd, ELCN
+Eros International Media Ltd, EROS
+ESS DEE Aluminum Ltd, ESDA
+GOCL Corp Ltd, GOCL
+Gravita India Ltd, GRAI
+GRUH Finance Ltd, GRUH
+Hindustan Copper Ltd, HCPR
+HMT Ltd, HMTL
+ICRA Ltd, ICRA
+IL&FS Transportation Networks Ltd, ILFT
+Indiabulls Real Estate Ltd, INRL
+JBF Industries Ltd, JBFI
+Jindal Saw Ltd, JIND
+JK Cement Ltd, JKCE
+JK Lakshmi Cement Ltd, JKLC
+Jyothy Laboratories Ltd, JYOI
+Kirloskar Oil Engines Ltd, KIRO
+Kaveri Seed Company Ltd, KVRI
+Lovable Lingerie Ltd, LOVA
+L&T Finance Holdings Ltd, LTFH
+Magma Fincorp Ltd, MAGM
+Mahindra Holidays and Resorts India Ltd, MAHH
+Mandhana Industries Ltd, MAND
+Multi Commodity Exchange of India Ltd, MCEI
+MMTC Ltd, MMTC
+Manappuram Finance Ltd, MNFL
+MOIL Ltd, MOIL
+Muthoot Finance Ltd, MUTT
+Natco Pharma Ltd, NATP
+Nitin Fire Protection Industries Ltd, NIFP
+NIIT Technologies Ltd, NITT
+Nesco Ltd, NSEN
+OnMobile Global Ltd, ONMO
+PC Jeweller Ltd, PCJE
+Polyplex Corporation Ltd, PLYP
+Prakash Industries Ltd, PRKI
+Punjab & Sind Bank, PUNA
+Rain Industries Ltd, RAID
+SE Investments Ltd, PISA
+Shriram-City Union Finance Ltd, SHCU
+Siti Networks Ltd, SITI
+SJVN Ltd, SJVN
+Solar Industries India Ltd, SLIN
+Sun Pharma Advanced Research Company Ltd, SPRC
+Swan Energy Ltd, SWAN
+Techno Electric & Engineering Company Ltd, TEEC
+Texmaco Rail & Engineering Ltd, TEXA
+Tree House Education and Accessories Ltd, THEA
+Time Technoplast Ltd, TIME
+Timken India Ltd, TIMK
+Titagarh Wagons Ltd, TITW
+Triveni Turbine Ltd, TRVT
+TTK Prestige Ltd, TTKL
+Tata Teleservices (Maharashtra) Ltd, TTML
+United Bank of India, UBOI
+Vakrangee Softwares Ltd, VAKR
+Vardhman Textiles Ltd, VART
+Va Tech Wabag Ltd, VATE
+V Guard Industries Ltd, VGUA
+WABCO India Ltd, WABC
+Zylog Systems Ltd, ZYSY
+Bilcare Ltd, BIL
+Blue Circle Services Ltd, BLUE
+CCL International Ltd, CCLI
+Indian Infotech Software Ltd, IISL
+KGN Enterprises Ltd, KGNE
+Novartis India Ltd, NOIN
+PI Industries Ltd, PIIL
+Shree Global Tradefin Ltd, SHGT
+Spicejet Ltd, SPJT
+Symphony Ltd, SYMP
+Tuni Textile Mills Ltd, TUTX
+Vikas Wsp Ltd, VWSP
+Brightcom Group Ltd, BRIH
+Abbott India Ltd, ABOT
+International Paper APPM Ltd, IPAP
+Ge T&D India Ltd, GETD
+Arshiya Ltd, ARSH
+A2z Infra Engineering Ltd, A2ZI
+Bajaj Corp Ltd, BACO
+Bayer Cropscience Ltd, BAYE
+Bharti Infratel Ltd, BHRI
+Balkrishna Industries Ltd, BLKI
+Bank of Maharashtra Ltd, BMBK
+CARE Ratings Ltd, CREI
+Elecon Engineering CoLtd, ELCN
+Eros International Media Ltd, EROS
+ESS DEE Aluminum Ltd, ESDA
+GOCL Corp Ltd, GOCL
+Gravita India Ltd, GRAI
+GRUH Finance Ltd, GRUH
+Hindustan Copper Ltd, HCPR
+HMT Ltd, HMTL
+ICRA Ltd, ICRA
+IL&FS Transportation Networks Ltd, ILFT
+Indiabulls Real Estate Ltd, INRL
+JBF Industries Ltd, JBFI
+Jindal Saw Ltd, JIND
+JK Cement Ltd, JKCE
+JK Lakshmi Cement Ltd, JKLC
+Jyothy Laboratories Ltd, JYOI
+Kirloskar Oil Engines Ltd, KIRO
+Kaveri Seed Company Ltd, KVRI
+Lovable Lingerie Ltd, LOVA
+L&T Finance Holdings Ltd, LTFH
+Magma Fincorp Ltd, MAGM
+Mahindra Holidays and Resorts India Ltd, MAHH
+GB Global Ltd, GBGL
+Multi Commodity Exchange of India Ltd, MCEI
+MMTC Ltd, MMTC
+Manappuram Finance Ltd, MNFL
+MOIL Ltd, MOIL
+Muthoot Finance Ltd, MUTT
+Natco Pharma Ltd, NATP
+Nitin Fire Protection Industries Ltd, NIFP
+NIIT Technologies Ltd, NITT
+Nesco Ltd, NSEN
+OnMobile Global Ltd, ONMO
+PC Jeweller Ltd, PCJE
+Polyplex Corporation Ltd, PLYP
+Prakash Industries Ltd, PRKI
+Punjab & Sind Bank, PUNA
+Rain Industries Ltd, RAID
+State Bank of Mysore, SBKM
+SE Investments Ltd, PISA
+Shriram-City Union Finance Ltd, SHCU
+Siti Networks Ltd, SITI
+SJVN Ltd, SJVN
+Solar Industries India Ltd, SLIN
+Sun Pharma Advanced Research Company Ltd, SPRC
+Swan Energy Ltd, SWAN
+Techno Electric & Engineering Company Ltd, TEEC
+Texmaco Rail & Engineering Ltd, TEXA
+Tree House Education and Accessories Ltd, THEA
+Time Technoplast Ltd, TIME
+Timken India Ltd, TIMK
+Titagarh Wagons Ltd, TITW
+Triveni Turbine Ltd, TRVT
+Tata Motors Ltd DVR, TAMdv
+Indiabulls Housing Finance Ltd, INBF
+Tata Motors DV Ltd, TAMdv
+Interglobe Aviation Ltd, INGL
+ICICI Prudential Life Insurance Company Ltd, ICIR
+Avenue Supermarts Ltd, AVEU
+ICICI Lombard General Insurance Company Ltd, ICIL
+SBI Life Insurance Company Ltd, SBIL
+General Insurance Corporation of India, GENA
+New India Assurance Company Ltd, THEE
+HDFC Life Insurance Company Ltd, HDFL
+Bandhan Bank Ltd, BANH
+HDFC Asset Management Company Ltd, HDFA
+Vakrangee Softwares Ltd, VAKR
+V Guard Industries Ltd, VGUA
+PI Industries Ltd, PIIL
+NBCC India Ltd, NBCC
+Welspun India Ltd, WLSP
+Aditya Birla Fashion and Retail Ltd, ADIA
+Ajanta Pharma Ltd, AJPH
+Syngene International Ltd, SYNN
+IDFC Bank Ltd, IDFB
+Alkem Laboratories Ltd, ALKE
+Dr Lal PathLabs Ltd, DLPA
+Crompton Greaves Consumer Electricals Ltd, CROP
+Mahanagar Gas Ltd, MGAS
+RBL Bank Ltd, RATB
+Endurance Technologies Cn Ltd, ENDU
+PNB Housing Finance Ltd, PNBH
+Housing and Urban Development Corporation Ltd, HUDC
+AU Small Finance Bank Ltd, AUFI
+TTK Prestige Ltd, TTKL
+Vardhman Textiles Ltd, VART
+Va Tech Wabag Ltd, VATE
+WABCO India Ltd, WABC
+Just Dial Ltd, JUST
+Bombay Burmah Trading Corporation Ltd, BBRM
+Trident Ltd, TRIE
+Heritage Foods Ltd, HEFI
+PVR Ltd, PVRL
+Kolte Patil Developers Ltd, KOLT
+Maharashtra Scooters Ltd, MHSC
+Vaibhav Global Ltd, VAIB
+Intellect Design Arena Ltd, INEE
+Indiabulls Integrated Services Ltd, IIAB
+Sudarshan Chemical Industries Ltd, SDCH
+Caplin Point Laboratories Ltd, CAPL
+Future Lifestyle Fashions Ltd, FLFL
+Gulf Oil Lubricants India Ltd, GOLU
+Himadri Speciality Chemical Ltd, HIMD
+Navin Fluorine International Ltd, NAFL
+Johnson Controls-Hitachi Air Conditioning India Ltd, JCHA
+Ratnamani Metals Tubes Ltd, RMT
+Alembic Pharmaceuticals Ltd, ALEM
+Mahindra CIE Automotive Ltd, MAHN
+ITD Cementation India Ltd, ITCM
+Jamna Auto Industries Ltd, JMNA
+Phillips Carbon Black Ltd, PHIL
+Capri Global Capital Ltd, CAPG
+Suprajit Engineering Ltd, SUPE
+Astral Poly Technik Ltd, ASPT
+Hatsun Agro Product Ltd, HAPL
+Orient Refractories Ltd, ORRE
+Suven Life Sciences Ltd, SUVP
+CCL Products India Ltd, CCLP
+Garware Wall Ropes Ltd, GRWL
+Repco Home Finance Ltd, RHFL
+Cera Sanitaryware Ltd, CERA
+KNR Constructions Ltd, KNRL
+APL Apollo Tubes Ltd, APLA
+Bliss GVS Pharma Ltd, BLIS
+Gayatri Projects Ltd, GAPR
+Grindwell Norton Ltd, GRNN
+Minda Industries Ltd, MNDA
+Relaxo Footwears Ltd, RLXO
+Sundaram Clayton Ltd, SUND
+Aegis Logistics Ltd, AEGS
+Ashoka Buildcon Ltd, ABDL
+Shilpa Medicare Ltd, SHME
+Vinati Organics Ltd, VNTI
+Deepak Nitrite Ltd, DPNT
+Granules India Ltd, GRAN
+IFB Industries Ltd, IFBI
+KEI Industries Ltd, KEIN
+Take Solutions Ltd, TAKE
+Orient Cement Ltd, ORCE
+V Mart Retail Ltd, VMAR
+Dalmia Bharat Ltd B, DALB
+JK Paper Ltd, JKPA
+KPR Mill Ltd, KPRM
+Symphony Ltd, SYMP
+Minda Corporation Ltd, MINC
+CEAT Ltd, CEAT
+KRBL Ltd, KRBL
+ITI Ltd, ITEL
+Avanti Feeds Ltd, AVNT
+India Tourism Development Corp Ltd, ITDC
+VRL Logistics Ltd, VRLL
+PNC Infratech Ltd, PNCI
+Adani Transmission Ltd, ADAI
+Coffee Day Enterprises Ltd, CODE
+S H Kelkar And Company Ltd, SHKE
+Lux Industries Ltd, LUXI
+Narayana Hrudayalaya Ltd, NARY
+Teamlease Services Ltd, TLSV
+Jindal Stainless Hisar Ltd, JINA
+Infibeam Avenues Ltd, IFIB
+Equitas Holdings Ltd, EQHL
+Parag Milk Foods Ltd, PAMF
+Thyrocare Technologies Ltd, THYO
+Ujjivan Financial Services Ltd, UJVF
+Max India Ltd, MAID
+Quess Corp Ltd, QUEC
+Larsen & Toubro Infotech Ltd, LRTI
+Advanced Enzyme Technologies Ltd, ADEN
+Dilip Buildcon Ltd, DIBL
+Future Retail Ltd, FRTL
+L&T Technology Services Ltd, LTEH
+Varun Beverages Ltd, VARB
+Laurus Labs Ltd, LAUL
+Sheela Foam Ltd, SHEF
+TCI Express Ltd, TCIE
+BSE Ltd, BSEL
+Central Depository Services India Ltd, CENA
+Eris Lifesciences Ltd, ERIS
+Security and Intelligence Services Ltd, SECR
+Cochin Shipyard Ltd, COCH
+Star Cement Ltd, STAT
+Dixon Technologies India Pvt Ltd, DIXO
+Godrej Agrovet Ltd, GODE
+Dishman Carbogen Amcis Ltd, DSHM
+MAS Financial Services Ltd, MASF
+Indian Energy Exchange Ltd, IIAN
+Reliance Nippon Life Asset Management Ltd, RELL
+Mahindra Logistics Ltd, MALO
+Tube Investments of India Ltd, TBEI
+Amber Enterprises India Ltd, AMBE
+Galaxy Surfactants Limited, GALX
+Aster DM Healthcare Ltd, ATRD
+Hindustan Aeronautics Ltd, HIAE
+Bharat Dynamics Ltd, BARA
+ICICI Securities Ltd, ICCI
+Lemon Tree Hotels, LEMO
+IndoStar Capital Finance Ltd, INAC
+Orient Electric Ltd, ONTE
+Varroc Engineering Ltd, VARE
+Adani Green Energy Ltd, ADNA
+RITES Ltd, RITS
+Fine Organic Industries Ltd, FINO
+TCNS Clothing Co Ltd, TCNS
+CreditAccess Grameen Ltd, CRDE
+Ircon International Ltd, IRCN
+Aavas Financiers Ltd, AVAS
+Adani Gas Ltd, ADAG
+Chalet Hotels Ltd, CHAL
+Arvind Fashions Ltd, ARVF
+Rail Vikas Nigam Ltd, RAIV
+Metropolis Healthcare Ltd, METP
+Polycab India Ltd, POLC
+KPIT Technologies Ltd, KPIE
+Indo Count Industries Ltd, ICNT
+Rupa Company Ltd, RUCL
+Kwality Ltd, KDAI
+Inox Wind Ltd, INWN
+Manpasand Beverages Ltd, MANB
+Navkar Corporation Ltd, NAVR
+India Tourism Development Corp Ltd, ITDC
+Ramkrishna Forgings Ltd, RKFO
+Indoco Remedies Ltd, INRM
+Sharda Cropchem Ltd, SHCR
+Shankara Building Products Ltd, SHAB
+Sintex Plastics Technology Ltd, SINT
+Reliance Home Finance Ltd, RLIC
+Accelya Solutions India Ltd, ACCY
+Vidhi Dyestuffs Manufacturing Ltd, VIDH
+NBCC India Ltd, NBCC
+PVR Ltd, PVRL
+Finolex Cables Ltd, FNXC
+Just Dial Ltd BO, JUST
+Tribhovandas Bhimji Zaveri Ltd, TBZL
+Vaibhav Global Ltd-BO, VAIB
+Westlife Development Ltd-BO, WEST
+Zensar Technologies Ltd, ZENT
+Ajanta Pharma Ltd-BO, AJPH
+Alembic Pharmaceuticals Ltd-BO, ALEM
+Astral Poly Technik Ltd-BO, ASPT
+Atul Ltd-BO, ATLP
+Bombay Burmah Trading Corporation Ltd, BBRM
+CEAT Ltd-BO, CEAT
+DCM Shriram Ltd-BO, DCMS
+Firstsource Solutions Ltd-BO, FISO
+Future Lifestyle Fashions Ltd, FLFL
+Gati Ltd-BO, GATI
+GIC Housing Finance Ltd-BO, GICH
+Grindwell Norton Ltd-BO, GRNN
+Gulf Oil Lubricants India Ltd, GOLU
+Hawkins Cookers Ltd-BO, HWKN
+Hinduja Global Solutions Ltd, HGSL
+Johnson Controls-Hitachi Air Conditioning India Ltd, JCHA
+Indiabulls Housing Finance Ltd, INBF
+Indoco Remedies Ltd-BO, INRM
+INOX Leisure Ltd-BO, INOL
+JK Tyre & Industries Ltd-BO, JKIN
+Kolte Patil Developers Ltd-BO, KOLT
+Lakshmi Vilas Bank Ltd, LVLS
+Mahindra CIE Automotive Ltd-BO, MAHN
+Orient Cement Ltd-BO, ORCE
+RattanIndia Power Ltd, RTNP
+Repco Home Finance Ltd-BO, RHFL
+Selan Exploration Technology Ltd, SELA
+Sharda Cropchem Ltd-BO, SHCR
+SOM Distilleries and Breweries Ltd, SDB
+Sonata Software Ltd, SOFT
+Tata Sponge Iron Ltd-BO, TTST
+Minda Corp Ltd, MINC
+Hikal Ltd-BO, HIKA
+Granules India Ltd, GRAN
+Ashoka Buildcon Ltd, ABDL
+Fairchem Speciality Ltd, FAIC
+Aarti Drugs Ltd, ADRG
+Aegis Logistics Ltd, AEGS
+Ashiana Housing Ltd, AHFN
+Ajmera Realty and Infra India Ltd, AJME
+Alkyl Amines Chemicals Ltd, ALKY
+Apar Industries Ltd, APAR
+Apcotex Industries Ltd, APCI
+APL Apollo Tubes Ltd, APLA
+Astra Micro Wave Products Ltd, ASTM
+Automotive Axles Ltd, ATOA
+Atul Auto Ltd, ATUL
+Avanti Feeds Ltd, AVNT
+AXISCADES Engineering Technologies Ltd, AXIT
+BF Investment Ltd, BFIN
+Bliss GVS Pharma Ltd, BLIS
+Balaji Telefilms Ltd, BLTE
+Banco Products India Ltd, BNCO
+Bodal Chemicals Ltd, BODA
+Borosil Glass Works Ltd, BORO
+Brigade Enterprises Ltd, BRIG
+Butterfly Gandhimathi Appliances Ltd, BUTT
+Camlin Fine Sciences Ltd, CAMF
+Capri Global Capital Ltd, CAPG
+Caplin Point Laboratories Ltd, CAPL
+CCL Products India Ltd, CCLP
+Centrum Capital Ltd, CENC
+Cera Sanitaryware Ltd, CERA
+Cigniti Technologies Ltd, CIGN
+Can Fin Homes Ltd, CNFH
+Century Enka Ltd, CNTE
+Century Plyboards (India) Ltd, CNTP
+Datamatics Global Services Ltd, DATC
+DCW Ltd, DCWL
+Dhanuka Agritech Ltd, DHNP
+D-Link India Ltd, DLIL
+Deepak Nitrite Ltd, DPNT
+Dredging Corporation of India Ltd, DRDG
+Electrosteel Castings Ltd, ELST
+Inox Wind Ltd BO, INWN
+ITI Ltd, ITEL
+Snowman Logistics Ltd, SNOW
+3i Infotech Ltd, TIIN
+Wonderla Holidays Ltd, WOHL
+MEP Infrastructure Development Ltd, MPIN
+UFO Moviez India Ltd, UFOM
+VRL Logistics Ltd, VRLL
+Action Construction Equipment Ltd, ACEL
+HeidelbergCement India Ltd, HEID
+Kitex Garments Ltd, KITE
+KRBL Ltd, KRBL
+Marksans Pharma Ltd, MARK
+Mastek Ltd, MAST
+Merck Ltd, PROR
+Nectar Lifesciences Ltd, NECT
+Nucleus Software Exports Ltd, NSEL
+Panacea Biotec Ltd, PNCA
+Shilpa Medicare Ltd, SHME
+Sasken Communication Technologies Ltd, SKCT
+Expleo Solutions Ltd, EXPL
+Suven Life Sciences Ltd, SUVP
+Vimta Labs Ltd, VIML
+Vivimed Labs Ltd, VVMD
+PNC Infratech Ltd, PNCI
+Fineotex Chemical Ltd, FINE
+Welspun Enterprises Ltd, WELS
+Adani Transmission Ltd, ADAI
+Syngene International Ltd, SYNN
+Alankit Ltd, ALAK
+Arvind Smartspaces Ltd, ARVD
+ITD Cementation India Ltd, ITCM
+Kaya Ltd, KAYA
+Majesco Ltd, MAJC
+Navkar Corporation Ltd, NAVR
+Power Mech Projects Ltd, POMP
+Prabhat Dairy Ltd, PRDA
+Coffee Day Enterprises Ltd, CODE
+IDFC Bank Ltd, IDFB
+Satin Creditcare Network Ltd, SATR
+Interglobe Aviation Ltd, INGL
+S H Kelkar And Company Ltd, SHKE
+J Kumar Infraprojects Ltd, JKIP
+Jamna Auto Industries Ltd, JMNA
+Alkem Laboratories Ltd, ALKE
+Dr Lal PathLabs Ltd, DLPA
+Setco Automotive Ltd, SETC
+Vikas Ecotech Ltd, VIEC
+Bhageria Industries Ltd, BHAE
+Lux Industries Ltd, LUXI
+Narayana Hrudayalaya Ltd, NARY
+Jindal Stainless Hisar Ltd, JINA
+Teamlease Services Ltd BO, TLSV
+Mold Tek Packaging Ltd, MOLT
+Quick Heal Technologies Ltd, QUIC
+SeQuent Scientific Ltd, SEQU
+Aditya Birla Fashion and Retail Ltd, ADIA
+Kamdhenu Ltd, KAMI
+Welspun India Ltd, WLSP
+Infibeam Avenues Ltd, IFIB
+Equitas Holdings Ltd, EQHL
+Aditya Birla Money Ltd, ABML
+Ador Welding Ltd, ADOR
+Alphageo India Ltd, ALPI
+Ambika Cotton Mills Ltd, AMBK
+ADF Foods Ltd, AMRN
+Asian Granito India Ltd, ASGI
+Astec Lifesciences Ltd, ASTE
+Balaji Amines Ltd, BAMN
+Bharat Bijlee Ltd, BBJL
+Bhansali Engineering Polymers Ltd, BHAN
+B L Kashyap and Sons Ltd, BLKS
+Birla Cable Ltd, BRLE
+Cerebra Integrated Technologies Ltd, CEIT
+Cantabil Retail India Ltd, CRIL
+Cosmo Films Ltd, CSFL
+Dhampur Sugar Mills Ltd, DAMS
+Deep Industries Ltd, DEIN
+Dalmia Bharat Sugar and Industries Ltd, DLMI
+Dwarikesh Sugar Industries Ltd, DWAR
+Everest Kanto Cylinder Ltd, EKCL
+Electrotherm India Ltd, ELTH
+Emami Infrastructure Ltd, EMMI
+Eveready Industries India Ltd, ERDY
+ESAB India Ltd, ESAB
+Essel Propack Ltd, ESSL
+Everest Industries Ltd, EVRI
+Excel Industries Ltd, EXCI
+Federal-Mogul Goetze India Ltd, FEDM
+Fiem Industries Ltd, FIIN
+Filatex India Ltd, FLTX
+Future Enterprises Ltd R, FURdv
+Gabriel India Ltd, GABR
+Gujarat Ambuja Exports Ltd, GAME
+Gayatri Projects Ltd, GAPR
+Godawari Power and Ispat Ltd, GDPI
+Genus Power Infrastructures Ltd, GEOE
+Geojit Bnp Paribas Financial Services Ltd, GEOJ
+GHCL Ltd, GHCH
+Ganesh Housing Corp Ltd, GHFC
+Gujarat Industries Power Company Ltd, GJIP
+Globus Spirits Ltd, GLOS
+G M Breweries Ltd, GMBR
+Goa Carbon Ltd, GOAC
+Olectra Greentech Ltd, OLEC
+Gokaldas Exports Ltd, GOKL
+Garware Wall Ropes Ltd, GRWL
+Gufic Biosciences Ltd, GUFI
+HBL Power Systems Ltd, HBLS
+Heritage Foods Ltd, HEFI
+Hester Biosciences Ltd, HEST
+HIL Ltd, HLLT
+Himadri Speciality Chemical Ltd, HIMD
+Himatsingka Seide Ltd, HMSD
+Honda Siel Power Products Ltd, HOND
+Huhtamaki PPL Ltd, HUHT
+Indo Count Industries Ltd, ICNT
+IFB Industries Ltd, IFBI
+Igarashi Motors India Ltd, IGAM
+India Glycols Ltd, IGLY
+I G Petrochemicals Ltd, IGPT
+Indian Hume Pipe Company Ltd, IHME
+Indian Metals and Ferro Alloys Ltd, IMFA
+Indiabulls Ventures Ltd, INDB
+Indiabulls Integrated Services Ltd, IIAB
+Intellect Design Arena Ltd, INEE
+IOL Chemicals and Pharmaceuticals Ltd, IOLC
+Insecticides India Ltd, ISIL
+Jayant Agro-Organics Ltd, JAAO
+Jain Irrigation Systems Ltd, JAIRdv
+JBM Auto Ltd, JBMA
+Jindal Worldwide Ltd, JINW
+JK Paper Ltd, JKPA
+JMC Projects (India) Ltd, JMCP
+Jay Bharat Maruti Ltd, JYBM
+KEI Industries Ltd, KEIN
+Kellton Tech Solutions Ltd, KELL
+Kilitch Drugs India Ltd, KIDI
+Kiri Industries Ltd, KIRI
+Kalyani Steels Ltd, KLSL
+KNR Constructions Ltd, KNRL
+KPR Mill Ltd, KPRM
+Kirloskar Brothers Ltd, KRBR
+Kridhan Infra Ltd, KRID
+KSB Ltd, KSBL
+La Opala R G Ltd, LAOP
+LG Balakrishnan & Bros Ltd, LGB
+Liberty Shoes Ltd, LIBS
+Lincoln Pharmaceuticals Ltd, LINP
+LT Foods Ltd, LTOL
+Lumax AutoTechnologies Ltd, LUAT
+Lumax Industries Ltd, LUMA
+Man Infraconstruction Ltd, MANI
+Mayur Uniquoters Ltd, MAYU
+Meghmani Organics Ltd, MEGH
+Mangalam Cement Ltd, MGLC
+Maharashtra Scooters Ltd, MHSC
+Man Industries India Ltd, MIND
+MIRC Electronics Ltd, MIRC
+Mirza International Ltd, MIRZ
+MM Forgings Ltd, MMFO
+Minda Industries Ltd, MNDA
+Munjal Showa Ltd, MNJL
+Manali Petrochemicals Ltd, MNLI
+Monte Carlo Fashions Ltd, MOCF
+Morepen Laboratories Ltd, MORL
+MT Educare Ltd, MTED
+Munjal Auto Industries Ltd, MUAU
+Mukand Ltd, MUKA
+Muthoot Capital Services Ltd, MUTH
+Navin Fluorine International Ltd, NAFL
+Nath Bio-Genes India Ltd, NATB
+NRB Bearings Ltd, NBEA
+Ncl Industries Ltd, NCLI
+Nitco Ltd, NCOT
+Nelco Ltd, NELC
+Neuland Laboratories Ltd, NEUL
+Nila Infrastructures Ltd, NHI
+Nitin Spinners Ltd, NISP
+Nilkamal Ltd, NKML
+Nelcast Ltd, NLCA
+Nocil Ltd, NOCI
+Oriental Carbon & Chemicals Ltd, ORCR
+Orient Paper and Industries Ltd, ORPP
+Orient Refractories Ltd, ORRE
+Dalmia Bharat Ltd B, DALB
+Panama Petrochem Ltd, PAPT
+Punjab Chemicals and Crop Protection Ltd, PCHM
+Pennar Industries Ltd, PENN
+Phillips Carbon Black Ltd, PHIL
+PNB Gilts Ltd, PNBG
+PPAP Automotive Ltd, PPAP
+Pricol Ltd, PRCO
+Prozone Intu Properties Ltd, PROZ
+PTC India Financial Services Ltd, PTCN
+Rane Brake Linings Ltd, RABL
+Ramco Industries Ltd, RAMC
+Rane Madras Ltd, RAMD
+Ramky Infrastructure Ltd, RAMK
+Rane Holdings Ltd, RANE
+Rico Auto Industries Ltd, RAUT
+Ruchira Papers Ltd, RCHR
+Ramkrishna Forgings Ltd, RKFO
+Relaxo Footwears Ltd, RLXO
+Ramco Systems Ltd, RMCS
+Ratnamani Metals and Tubes Ltd, RMT
+Royal Orchid Hotels Ltd, ROYL
+Rpg Life Sciences Ltd, RPGL
+RPP Infra Projects Ltd, RPPI
+Responsive Industries Ltd, RSPO
+RSWM Ltd, RSWM
+Rupa and Company Ltd, RUCL
+Rushil Decor Ltd, RUSH
+Sarda Energy & Minerals Ltd, SAEM
+Sakuma Exports Ltd, SAKE
+Saregama India Ltd, SARE
+Sudarshan Chemical Industries Ltd, SDCH
+Seamec Ltd, SEAM
+Sunflag Iron and Steel Co Ltd, SFLG
+Shivam Autotech Ltd, SHAU
+Shemaroo Entertainment Ltd, SHEM
+Shalimar Paints Ltd, SHLP
+Shakti Pumps India Ltd, SHPU
+Siyaram Silk Mills Ltd, SIYR
+Skipper Ltd, SKIP
+SML Isuzu Ltd, SMLI
+Sanghi Industries Ltd, SNGI
+Sanghvi Movers Ltd, SNGM
+Sanwaria Agro Oils Ltd, SNWR
+Somany Ceramics Ltd, SOCE
+JTEKT India Ltd, JTEK
+Shree Pushkar Chemicals & Fertilisers Ltd, SPCH
+Speciality Restaurants Ltd, SPRE
+Supreme Petrochem Ltd, SPTL
+Srikalahasthi Pipes Ltd, SRIK
+Seshasayee Paper and Boards Ltd, SSHA
+Soril Infra Resources Ltd, SORI
+Sterling Tools Ltd, STTL
+Steel Strips Wheels Ltd, STWH
+Subros Ltd, SUBR
+Subex Ltd, SUBX
+Suprajit Engineering Ltd, SUPE
+Surya Roshni Ltd, SURR
+Swaraj Engines Ltd, SWAR
+TAJ GVK Hotels and Resorts Ltd, TAJG
+Take Solutions Ltd, TAKE
+Transport Corporation of India Ltd, TCIL
+TD Power Systems Ltd, TDPS
+Technocraft Industries India Ltd, TEIN
+Tourism Finance Corporation of India Ltd, TFCI
+Thirumalai Chemicals Ltd, THRM
+Tinplate Company of India Ltd, TINP
+Tata Metaliks Ltd, TMET
+Tanla Solutions Ltd, TNSL
+Tamilnadu Petroproducts Ltd, TPL
+Triveni Engineering and Industries Ltd, TREI
+Trident Ltd, TRIE
+Trigyn Technologies Ltd, TRIG
+TVS Electronics Ltd, TVEL
+TVS Srichakra Ltd, TVSC
+TV Today Network Ltd, TVTO
+Uniply Industries Ltd, UNIN
+Universal Cables Ltd, UNVR
+Uttam Sugar Mills Ltd, UTSM
+Vascon Engineers Ltd, VASC
+Vadilal Industries Ltd, VDLI
+Venky’s India Ltd, VENK
+Vipul Ltd, VIPL
+V-mart Retail Ltd, VMAR
+Vindhya Telelinks Ltd, VNDY
+Vinati Organics Ltd, VNTI
+Voltamp Transformers Ltd, VOTL
+V2 Retail Ltd, VREL
+Visaka Industries Ltd, VSKI
+VST Tillers Tractors Ltd, VST
+Walchandnagar Industries Ltd, WALC
+Weizmann Forex Ltd, WEIM
+Windsor Machines Ltd, WIND
+West Coast Paper Mills Ltd, WSTC
+Zee Learn Ltd, ZEEE
+Zee Media Corporation Ltd, ZEEN
+Zen Technologies Ltd, ZETE
+Zuari Agro Chemicals Ltd, ZUAR
+Zuari Global Ltd, ZURI
+Crompton Greaves Consumer Electricals Ltd, CROP
+Parag Milk Foods Ltd, PAMF
+Thyrocare Technologies Ltd, THYO
+Ujjivan Financial Services Ltd, UJVF
+Max Ventures and Industries Ltd NS, MAXV
+Mahanagar Gas Ltd NS, MGAS
+Max India Ltd NS, MAID
+Quess Corp Ltd NS, QUEC
+Larsen Toubro Infotech Ltd, LRTI
+Advanced Enzyme Technologies Ltd, ADEN
+Prabhat Telecoms (India) Ltd, PRAH
+Dilip Buildcon Ltd, DIBL
+Future Retail Ltd, FRTL
+Andhra Petrochemicals Ltd, ADPE
+Albert David Ltd, ALBD
+Apollo Pipes Ltd, AOLL
+Associated Alcohols & Breweries Ltd, ASAL
+Confidence Petroleum India Ltd, CONF
+DFM Foods Ltd, DFMF
+DIL Ltd, FERM
+Dolat Investments Ltd, DOLA
+Force Motors Ltd, FORC
+GMM Pfaudler Ltd, GMMP
+Grauer And Weil India Ltd, GRWN
+Jump Networks Ltd, JUMP
+Isgec Heavy Engineering Ltd, ISGE
+Kennametal India Ltd, KENI
+Kirloskar Ferrous Industries Ltd, KRFI
+Mangalam Organics Ltd, MANG
+Medicamen Biotech Ltd, MEBI
+N R Agarwal Industries Ltd, NRAI
+National Peroxide Ltd, NTPR
+Optiemus Infracom Ltd, OPTI
+Apollo Tricoat Tubes Ltd, APOT
+Pokarna Ltd, POKR
+RBL Bank Ltd, RATB
+Sadhana Nitro Chem Ltd, SADH
+Safari Industries India Ltd, SAFA
+Seya Industries Ltd, SEYA
+Shiva Cement Ltd, SHIV
+TGV SRAAC Ltd, TGVS
+Sandur Manganese and Iron Ores Ltd, SUMG
+Tasty Bite Eatables Ltd, TABE
+Transpek Industry Ltd, TSPK
+Vishal Fabrics Ltd, VIFA
+WPIL Ltd, WRTH
+Waterbase Ltd, WTRB
+Yuken India Ltd, YUKE
+BLS International Services Ltd, BLSN
+GNA Axles Ltd, GNAA
+ICICI Prudential Life Insurance Company Ltd, ICIR
+L&T Technology Services Ltd, LTEH
+HPL Electric & Power Pvt Ltd, HPLE
+Endurance Technologies Cn Ltd, ENDU
+PNB Housing Finance Ltd, PNBH
+Varun Beverages Ltd, VARB
+Laurus Labs Ltd, LAUL
+Sheela Foam Ltd, SHEF
+TCI Express Ltd, TCIE
+Avenue Supermarts Ltd, AVEU
+Music Broadcast Ltd, MUSI
+Shankara Building Products Ltd, SHAB
+S Chand and Company Ltd, SCHA
+Housing and Urban Development Corporation Ltd, HUDC
+Psp Projects Ltd, PSPP
+Eris Lifesciences Ltd, ERIS
+Tejas Networks Ltd, TEJS
+AU Small Finance Bank Ltd, AUFI
+Star Cement Ltd, STAT
+Avadh Sugar & Energy Ltd, AVAD
+Salasar Techno Engineering Ltd, SALA
+Sintex Plastics Technology Ltd, SINT
+Apex Frozen Foods Ltd, APEX
+Aditya Birla Capital Ltd, ADTB
+Cochin Shipyard Ltd, COCH
+Kudremukh Iron Ore Co, KIOC
+Security and Intelligence Services INDIA Ltd, SECR
+Capacite Infraprojects Ltd, CAPE
+Dixon Technologies India Pvt Ltd, DIXO
+ICICI Lombard General Insurance Company Ltd, ICIL
+Reliance Home Finance Ltd, RLIC
+SBI Life Insurance Company Ltd, SBIL
+Prataap Snacks Ltd, PRAT
+Godrej Agrovet Ltd, GODE
+Dishman Carbogen Amcis Ltd, DSHM
+MAS Financial Services Ltd, MASF
+General Insurance Corporation of India, GENA
+Indian Energy Exchange Ltd, IIAN
+Reliance Nippon Life Asset Management Ltd, RELL
+New India Assurance Company Ltd, THEE
+Mahindra Logistics Ltd, MALO
+HDFC Life Insurance Company Ltd, HDFL
+Khadim India Ltd, KHAD
+Tube Investments of India Ltd, TBEI
+Future Supply Chain Solutions Ltd, FUTE
+Shalby Ltd, SHAY
+Astron Paper & Board Mill Ltd, ASTO
+Apollo Micro Systems Ltd, APLL
+Galaxy Surfactants Limited BO, GALX
+Amber Enterprises India Ltd, AMBE
+Newgen Software Technologies Ltd, NEWG
+Aster DM Healthcare Ltd, ATRD
+HGInfra Engineering Limited, HGIN
+Hindustan Aeronautics Ltd, HIAE
+Bandhan Bank Ltd, BANH
+Bharat Dynamics Ltd, BARA
+Mishra Dhatu Nigam Ltd, MISR
+Sandhar Technologies Ltd, SNTL
+ICICI Securities Ltd, ICCI
+Lemon Tree Hotels, LEMO
+IndoStar Capital Finance Ltd, INAC
+Varroc Engineering Ltd, VARE
+Fine Organic Industries Ltd, FINO
+RITES Ltd, RITS
+Adani Green Energy Ltd, ADNA
+Solara Active Pharma Sciences Ltd, SOLA
+Talwalkars Lifestyles Ltd, TLWA
+Orient Electric Ltd, ONTE
+TCNS Clothing Co Ltd, TCNS
+HDFC Asset Management Company Ltd, HDFA
+CreditAccess Grameen Ltd, CRDE
+Ircon International Ltd, IRCN
+Garden Reach Shipbuilders & Engineers Ltd, GRSE
+Aavas Financiers Ltd, AVAS
+Adani Gas Ltd, ADAG
+Spencers Retail Ltd, SPEN
+CESC Ventures Ltd, CESV
+Chalet Hotels Ltd, CHAL
+Anup Engineering Ltd, ANUE
+MSTC Ltd, MSTC
+Arvind Fashions Ltd, ARVF
+Rail Vikas Nigam Ltd, RAIV
+Metropolis Healthcare Ltd, METP
+Polycab India Ltd, POLC
+Neogen Chemicals Ltd, NEOE
+KPIT Technologies Ltd, KPIE
+Coastal Corporation, COAS
+Global Infratech and Finance Ltd, GLOB
+IndiaMART InterMESH Ltd, INMR
+Affle India Ltd, AFFL
+Sterling and Wilson Solar Ltd BO, STEN
+Spandana Sphoorty Financial Ltd BO, SPAD
+Indian Railway Catering And Tourism Corp, INIR
+BCPL Railway Infrastructure Ltd, BCPL
+Diksha Greens Ltd, DIKH
+Deccan Health Care Ltd, DECN
+Roni Households Ltd, RONI
+Shankar Lal Rampal Dye-Chem Ltd, SNKA
+Axita Cotton Ltd, AXIA
+KPI Global Infrastructure Ltd, KPIG
+Ritco Logistics Ltd, RICT
+Kranti Industries Ltd, KRAI
+Anmol India Ltd, ANMI
+Gleam Fabmat Ltd, GELA
+Mahip Industries Ltd, MAHS
+Aartech Solonics Ltd, AART
+Humming Bird Education Ltd, HUMM
+Roopshri Resorts Ltd, ROOS
+Ashapuri Gold Ornament Ltd, ASHD
+Northern Spirits Ltd, NORE
+Artemis Electricals Ltd, ARTL
+Jinaams Dress Ltd, JINM
+VR Films & Studios Ltd, VRFI
+Cian Healthcare Ltd, CIAH
+Evans Electric Ltd, EVAN
+G K P Printing & Packaging Ltd, GKPP
+Vivid Mercantile Ltd, VIVD
+White Organic Retail Ltd, WHIE
+Parshva Enterprises Ltd, PAHV
+SK International Export Ltd, SKIN
