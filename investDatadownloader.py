@@ -19,7 +19,8 @@ bar = progressbar.ProgressBar(maxval=num_lines,widgets=[progressbar.Bar('=', '['
 bar.start()
 i=0
 for ticker in f :
-     df = investpy.get_stock_historical_data(stock=ticker.strip(),country='india', from_date=startString, to_date=endString)
+     df = investpy.get_index_historical_data(index=ticker.strip(), country='india', from_date=startString, to_date=endString)
+     #df = investpy.get_stock_historical_data(stock=ticker.strip(),country='india', from_date=startString, to_date=endString)
      df.to_csv(path +'\\%s.csv'%ticker.strip())
      i=i+1
      bar.update(i)
